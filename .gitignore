@@ -11,3 +11,8 @@ playwright-report/
 *.log
 *.pem
 *.key
+
+**/.venv/
+.pytest_cache/
+.ruff_cache/
+backups/
